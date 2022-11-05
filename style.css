@@ -6,7 +6,7 @@ body {
     width: 60%;
     text-align: left;
     background-color: rgb(243, 248, 222);
-
+    margin-bottom:15px;
 }
 
 .Moods{
@@ -65,9 +65,13 @@ span{
     padding-left:15px;
     margin-bottom:30px;
 }
+footer{
+    margin-bottom: 10px;
+}
 footer a.link:link{
     color: rgb(67, 179, 100)
 }
 footer a.link:visited{
     color: rgb(67, 179, 100)
+    
 }
